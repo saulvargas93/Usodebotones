@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Usodebotones</string>
+    <string name="name">ingresa tu nombre HOMMIE !!</string>
+    <string name="age">ingresa tu antiguedad</string>
+    <string name="ingresa_tu_telefono">ingresa tu telefono</string>
+    <string name="programa_android">PROGRAMA ANDROID</string>
+    <string name="ingresa_tu_mail">ingresa tu mail</string>
+    <string name="btnvalor">analiza</string>
+    <string name="txtNombre">nombre</string>
+    <string name="txtEdad">edad</string>
+    <string name="txtTelefonos">telefono</string>
+    <string name="txtMail">Mail</string>
+</resources>
